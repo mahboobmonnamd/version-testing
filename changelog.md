@@ -1,8 +1,12 @@
 # test app for versioning
 
+## 0.0.0
+
+### Patch Changes
+
+- added version
 
 ## 1.0.2
-
 
 ### For versioning file - 2
 
@@ -15,9 +19,7 @@ yk
 
 vj
 
-
 ## 1.0.1
-
 
 ### For versioning file
 
